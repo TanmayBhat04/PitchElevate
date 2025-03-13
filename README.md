@@ -3,7 +3,8 @@
 
 ## **🛠 Tech Stack**  
 - **Frontend:** Next.js (React Framework)  
-- **Backend & CMS:** Sanity.io 
+- **Backend & CMS:** Sanity.io
+- **Authentication:** NextAuth.js
 - **Error Monitoring:** Sentry
 - **Styling:** Tailwind CSS
 - **Language:** TypeScript  
