@@ -1,3 +1,11 @@
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+(to make tailwind work in case of errors sometimes)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
